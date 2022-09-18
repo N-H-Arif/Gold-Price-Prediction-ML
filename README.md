@@ -1,6 +1,8 @@
 # Overview
 
-Built a Gold Price Prediction using Machine Learning with Python. For this Prediction, used a Random Forest Regressor.
+Built a Gold Price Prediction Model using Machine Learning with Python. 
+
+For this Prediction, used a Random Forest Regressor.
 
 ## Dataset
 
